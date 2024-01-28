@@ -1,0 +1,27 @@
+.destination-container {
+  padding: 5%;
+}
+
+.destination-col3 {
+  display: flex;
+  justify-content: center;
+}
+
+.destination-one {
+  flex-basis: 30%;
+  text-align: center;
+}
+
+.destination-two {
+  flex-basis: 30%;
+  text-align: center;
+}
+
+.destination-three {
+  flex-basis: 30%;
+  text-align: center;
+}
+
+img {
+  width: 70%;
+}

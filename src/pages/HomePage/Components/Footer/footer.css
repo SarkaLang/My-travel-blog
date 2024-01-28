@@ -1,0 +1,10 @@
+.footer {
+  background-color: rgb(45, 40, 40);
+  height: 10vh;
+}
+
+.footer-title {
+  color:white;
+  text-align: center;
+  padding: 2%;
+}

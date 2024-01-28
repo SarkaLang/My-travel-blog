@@ -1,0 +1,21 @@
+.about-col2 {
+  width: 100%;
+  height: auto;
+  display: flex;
+  padding-top: 3%;
+  
+}
+
+.about-picture {
+  width: 35%;
+  height: auto;
+  padding-left: 5%;
+  border-radius: 5%;
+}
+
+.about-title {
+  padding-left: 5%;
+  padding-right: 20%;
+  font-size: 1.2rem;
+}
+
