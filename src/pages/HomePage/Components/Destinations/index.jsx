@@ -17,3 +17,4 @@ export const Destinations = () => {
     </div>
   )
   }
+  vim -r /Users/sarkanovakova/My-travel-blog/.git/COMMIT_EDITMSG
