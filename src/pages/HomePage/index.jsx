@@ -1,15 +1,17 @@
 import './style.css';
 import { Header } from './Components/Header';
 import {Footer} from './Components/Footer'
+import { Next } from './Components/Next';
 import { About } from './Components/About';
-import { Destination } from './Destination';
+import { Destinations } from './Components/Destinations';
 
 export const HomePage = () => {
   return (
    <>
    <Header />
+   <Next/>
    <About/>
-   <Destination/>
+   <Destinations/>
    <Footer />
    </>
   );

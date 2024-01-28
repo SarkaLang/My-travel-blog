@@ -1,21 +1,24 @@
-.about-col2 {
-  width: 100%;
-  height: auto;
+.about-container {
+ display: flex;
+ background-color: #E3DAC9;
+ justify-content: space-between;
+}
+
+.about-me {
   display: flex;
-  padding-top: 3%;
-  
+  justify-content: end;
+  flex-basis: 40%;
+  background-color:#483C32;
+}
+.about-photo {
+padding: 5%;
+width: 70%;
 }
 
-.about-picture {
-  width: 35%;
-  height: auto;
-  padding-left: 5%;
-  border-radius: 5%;
+.about-information {
+flex-basis: 50%;
 }
 
-.about-title {
-  padding-left: 5%;
-  padding-right: 20%;
-  font-size: 1.2rem;
+.about-text {
+  padding: 5%;
 }
-
