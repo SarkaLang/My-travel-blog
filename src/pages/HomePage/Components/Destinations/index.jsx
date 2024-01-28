@@ -9,7 +9,7 @@ export const Destinations = () => {
     <Timeline color="black" radius="lg" active={2} lineWidth={3} bulletSize={32} align="right">
     <Timeline.Item title="Default bullet">
         <Text c="dimmed" size="sm">
-          Default bullet without anything
+          Default bullet without anything --
         </Text>
       </Timeline.Item>
     </Timeline>
