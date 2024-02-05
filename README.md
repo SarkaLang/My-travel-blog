@@ -1,2 +1,2 @@
 My travel blog.
-Procesing 10%
+Processing 10%
